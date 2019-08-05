@@ -14,6 +14,7 @@ sns.heatmap(corr,
         xticklabels=corr.columns,
         yticklabels=corr.columns)
 
+￼
 
 # Data transformation
 # Convert categorical values to numeric using label encoder
